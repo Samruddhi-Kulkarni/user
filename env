@@ -1,0 +1,2 @@
+DB_CONNECTION_URL = mongodb+srv://oliomartdb:oliomartdb21@oliomart-cluster.p8cag.mongodb.net/trialoliomart
+PRIVATE_TOKEN = privatetoken@key
